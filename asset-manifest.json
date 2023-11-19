@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/sahana-m-somashekhar-portfolio/static/css/main.a3744a7b.css",
-    "main.js": "/sahana-m-somashekhar-portfolio/static/js/main.6fbce0fa.js",
+    "main.css": "/sahana-m-somashekhar-portfolio/static/css/main.fecf78e5.css",
+    "main.js": "/sahana-m-somashekhar-portfolio/static/js/main.9e15b581.js",
     "static/js/787.3ae37ee4.chunk.js": "/sahana-m-somashekhar-portfolio/static/js/787.3ae37ee4.chunk.js",
     "static/media/backdrop-2.jpeg": "/sahana-m-somashekhar-portfolio/static/media/backdrop-2.7f228460c6ac5cea1a45.jpeg",
     "static/media/logo.svg": "/sahana-m-somashekhar-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/sahana-m-somashekhar-portfolio/index.html",
-    "main.a3744a7b.css.map": "/sahana-m-somashekhar-portfolio/static/css/main.a3744a7b.css.map",
-    "main.6fbce0fa.js.map": "/sahana-m-somashekhar-portfolio/static/js/main.6fbce0fa.js.map",
+    "main.fecf78e5.css.map": "/sahana-m-somashekhar-portfolio/static/css/main.fecf78e5.css.map",
+    "main.9e15b581.js.map": "/sahana-m-somashekhar-portfolio/static/js/main.9e15b581.js.map",
     "787.3ae37ee4.chunk.js.map": "/sahana-m-somashekhar-portfolio/static/js/787.3ae37ee4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3744a7b.css",
-    "static/js/main.6fbce0fa.js"
+    "static/css/main.fecf78e5.css",
+    "static/js/main.9e15b581.js"
   ]
 }
